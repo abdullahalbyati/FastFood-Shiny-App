@@ -1,4 +1,4 @@
-##Fast Food Restaurants Popular Menu Nutritional Facts Pitch
+## Fast Food Restaurants Popular Menu Nutritional Facts Pitch
 
 author: Abdullah Albyati date: 17-Sep-2017 autosize: true
 
@@ -8,7 +8,7 @@ The data set was collected in January of 2017 by looking through online nutritio
 
 The link to the data set is https://www.statcrunch.com/app/index.php?dataid=2323899.
 
-##App features
+## App features
 
 The shiny app will help you navigate the data set easy by:
 
